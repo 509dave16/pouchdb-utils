@@ -1,0 +1,15 @@
+{
+  "name": "pouchdb-utils",
+  "version": "0.0.0",
+  "description": "For handling couchdb/pouchdb dev ops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "509dave16",
+  "license": "ISC",
+  "dependencies": {
+    "pouchdb": "^6.4.3",
+    "pouchdb-seed-design": "^0.3.0"
+  }
+}
